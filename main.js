@@ -1,0 +1,6 @@
+const Multiplex = require('./multiplex')
+const Avg = require('./average')
+const Pus = require('./plus')
+Multiplex(1, 2)
+Avg([1, 2, 3, 4, 5, 6])
+Pus(44, 66)
